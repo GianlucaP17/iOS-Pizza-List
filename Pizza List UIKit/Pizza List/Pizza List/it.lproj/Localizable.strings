@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Pizza List
+
+  Created by Gianluca Posca
+  Copyright © Gianluca Posca. All rights reserved.
+*/
+"MARGHERITA_ING" = "Pomodoro, Mozzarella";
+"MARINARA_ING" = "Pomodoro, Aglio";
+"WARNING" = "Attenzione";
+"HEALTH_MISS_CAL_WARN" = "Devi prima impostare le calorie per poterle inviare  all'App 'Salute'. Tocca 'Modifica' in alto a destra, imposta le calorie e tocca 'Salva'";
+"ADD_CONT_TITLE" = "Aggiungi Pizza";
+"ADD_CONT_TITLE_MODIFY" = "Modifica Pizza";
+"ADD_CONT_DONEBUTTON" = "Fatto";
+"ADD_CONT_PLACEHOLDER_PIZZA_NAME" = "Nome della Pizza";
+"ADD_CONT_PLACEHOLDER_PIZZA_INGR" = "Ingredienti";
+"ADD_CONT_PLACEHOLDER_PIZZA_CAL" = "Calorie";
+"ADD_CONT_ALERT_TITLE" = "Attenzione";
+"ADD_CONT_ALERT_MSG" = "Tutti i campi sono obbligatori";
+"ACTION_IMAGE_TITLE" = "Immagine";
+"ACTION_IMAGE_TEXT" = "Seleziona un'immagine dalla libreria o scatta una nuova foto";
+"BUTTON_CANCEL" = "Annulla";
+"BUTTON_LIBRARY" = "Libreria";
+"BUTTON_SHOOT" = "Scatta nuova foto";
+"INGREDIENTS_TEXT" = "Ingredienti";
+"MAP_CONT_TITLE" = "Trova Pizzeria";
+"ACTION_MAP_TITLE" = "Opzioni";
+"ACTION_MAP_CALL" = "Telefona";
+"ACTION_MAP_MAP" = "Indicazioni stradali";
+"MAP_ERROR" = "Errore di connessione, controllare la rete di dati e / o copertura GPS";
+"MAP_ADDRESS_ERROR" = "Non ho trovato l'indirizzo";
+"MAP_COORDINATE_ERROR" = "Non trovo queste coordinate";
+"MODIFY_TITLE" = "Modifica scheda";
+"MODIFY_NAME" = "Nome";
+"MODIFY_INGR" = "Ingredienti";
+"MODIFY_CAL" = "Calorie";
+"MODIFY_IMG" = "Immagine";
+"HBTITILE" = "Dati salvati in HealthBook";
+"HBMSG" = "Le calorie che hai consumato mangiando questa pizza sono state aggiunte al tuo database";

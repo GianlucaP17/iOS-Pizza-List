@@ -1,0 +1,29 @@
+/*
+  Localizable.strings
+  Pizza List
+
+  Created by Gianluca Posca
+  Copyright © Gianluca Posca. All rights reserved.
+*/
+"MARGHERITA_ING" = "Pomodoro, Mozzarella";
+"MARINARA_ING" = "Pomodoro, Aglio";
+"Add_Pizza" = "Aggiungi una Pizza";
+"CAN" = "Annulla";
+"SAV" = "Salva";
+"DON" = "Chiudi";
+"INFOS" = "Informazioni";
+"NAM" = "Nome della Pizza";
+"ING" = "Ingredienti";
+"CAL" = "Calorie";
+"WARN" = "Attenzione";
+"ALFILREQ" = "Tutti i campi sono obbligatori.";
+"ASPHTTIT" = "Immagine della Pizza";
+"ASPHTMSG" = "Seleziona una foto dalla libreria oppure scattane una nuova";
+"ASPHTLIB" = "Libreria / Rullino";
+"ASPHTSHO" = "Scatta";
+"NOMAWACO" = "Nessua email è stata impostata su questo dispositivo";
+
+"HEALTHALRTTIT" = "Conferma";
+"HEALTHALRMSG" = "Le calorie sono state inviate a Salute con successo";
+
+"INFOTXT" = "Quest'App è solo una dimostrazione di cosa si può ottenere con i framework di Apple. È un tutorial del Corso Swift, iOS, macOS, watchOS per Esempi Pratici. Quindi è totalmente inutile ma… fa così tante cose che è una figata, come ad esempio dire all’App Salute che hai consumato una pizza, trovare una pizzeria vicino a te, organizzare un Pizza Party con gli amici, vedere le pizze in AR, contiene una IA che ti permette di riconoscere le pizze, puoi allenare tu stessa la IA per insegnarli a riconoscere nuovi tipi di pizza, e molto altro ancora… Partecipa anche tu al nostro corso, visita: https://www.swift.srl";

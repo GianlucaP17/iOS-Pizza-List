@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Pizza List
+
+  Created by Gianluca Posca
+  Copyright © Gianluca Posca. All rights reserved.
+*/
+"MARGHERITA_ING" = "Tomato, Mozzarella";
+"MARINARA_ING" = "Tomato, Garlic";
+"Add_Pizza" = "Add New Pizza";
+"CAN" = "Cancel";
+"SAV" = "Save";
+"DON" = "Done";
+"INFOS" = "Info";
+"NAM" = "Pizza Name";
+"ING" = "Ingredients";
+"CAL" = "Calories";
+"WARN" = "Warning";
+"ALFILREQ" = "All fields are required";
+"ASPHTTIT" = "Pizza image";
+"ASPHTMSG" = "Select from library or shoot a new one";
+"ASPHTLIB" = "Library";
+"ASPHTSHO" = "Shoot";
+"NOMAWACO" = "No email was configured on this device";
+
+"HEALTHALRTTIT" = "Success";
+"HEALTHALRMSG" = "Calories succesfully shared to Health";
+
+"INFOTXT" = "This app is just a demonstration of what can be achieved with Apple frameworks. It is a tutorial of the Swift, iOS, macOS, watchOS Course by Tutorials. So it's totally useless but ... it does so many things that it's cool, like for example telling the Health App that you consumed a pizza, finding a pizzeria near you, organizing a Pizza Party with friends, seeing pizzas in AR, contains an AI that allows you to recognize pizzas, you can train the AI yourself to teach them to recognize new types of pizza, and much more ... Take part in our course, visit: https://www.swift.srl";

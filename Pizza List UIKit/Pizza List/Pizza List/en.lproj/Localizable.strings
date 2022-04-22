@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Pizza List
+
+  Created by Gianluca Posca
+  Copyright © Gianluca Posca. All rights reserved.
+*/
+
+"MARGHERITA_ING" = "Tomato, Mozzarella";
+"MARINARA_ING" = "Tomato, Garlic";
+"WARNING" = "Warning";
+"HEALTH_MISS_CAL_WARN" = "You must first set up the calories so we can send data the App 'Health'. Tap 'Edit' at the top right, sets the calories and tap 'Save'";
+"ADD_CONT_TITLE" = "Add Pizza";
+"ADD_CONT_TITLE_MODIFY" = "Edit Pizza";
+"ADD_CONT_DONEBUTTON" = "Done";
+"ADD_CONT_PLACEHOLDER_PIZZA_NAME" = "Pizza name";
+"ADD_CONT_PLACEHOLDER_PIZZA_INGR" = "Ingredients";
+"ADD_CONT_PLACEHOLDER_PIZZA_CAL" = "Calories";
+"ADD_CONT_ALERT_TITLE" = "Warning";
+"ADD_CONT_ALERT_MSG" = "You must provide all data";
+"ACTION_IMAGE_TITLE" = "Image";
+"ACTION_IMAGE_TEXT" = "Select from library or shoot a new photo";
+"BUTTON_CANCEL" = "Cancel";
+"BUTTON_LIBRARY" = "Library";
+"BUTTON_SHOOT" = "Shoot";
+"INGREDIENTS_TEXT" = "Ingredients";
+"MAP_CONT_TITLE" = "Find Pizza";
+"ACTION_MAP_TITLE" = "Options";
+"ACTION_MAP_CALL" = "Call";
+"ACTION_MAP_MAP" = "Get directions";
+"MAP_ERROR" = "Connection fault, check the data network and / or GPS coverage";
+"MAP_ADDRESS_ERROR" = "Can't find this address";
+"MAP_COORDINATE_ERROR" = "Can't find the coordinates";
+"MODIFY_TITLE" = "Modify data";
+"MODIFY_NAME" = "Name";
+"MODIFY_INGR" = "Ingredients";
+"MODIFY_CAL" = "Calories";
+"MODIFY_IMG" = "Image";
+"HBTITILE" = "Data saved in HealthBook";
+"HBMSG" = "The calories you ate was added to the database";
